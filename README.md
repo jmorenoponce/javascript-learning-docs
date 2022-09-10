@@ -10,3 +10,7 @@
 ## Dom Performance
 - https://dev.to/grandemayta/javascript-dom-manipulation-to-improve-performance-459a
 - https://betterprogramming.pub/web-performance-dom-reflow-76ac7c4d2d4f
+
+
+## Asynchrony
+- https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
